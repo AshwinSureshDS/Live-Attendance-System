@@ -1,2 +1,2 @@
 # Live-Attendance-System
-Real-Time face detection system using Pyhton's Face Recognition library
+Real-Time face detection system using Python's Face Recognition library
