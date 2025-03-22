@@ -87,9 +87,6 @@ streamlit run app.py
    - The report includes student register numbers, names, attendance status, and timestamps
    - The report can also be emailed directly from the application
 
-## Known Issues
-
-- There is a typo in the code where `st.session_state.attendavnce` is used instead of `st.session_state.attendance` in some places
 
 ## Credits
 
